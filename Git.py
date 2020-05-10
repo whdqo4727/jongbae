@@ -1,2 +1,2 @@
 print('Hello world')
-print('hello c world')
+print('hello world')
